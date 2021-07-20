@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L] 
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^(www\.)?domain\.com$ [NC]
+RewriteRule ^(.*)$ https://www.domain.com/$1 [L,R=301]

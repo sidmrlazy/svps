@@ -1,8 +1,8 @@
 <?php include "includes/db.php" ?>
-<?php $a='home'; ?>
+<?php //$a='home'; ?>
 <?php
-$user_agent = $_SERVER['HTTP_USER_AGENT'];
-session_start();
+// $user_agent = $_SERVER['HTTP_USER_AGENT'];
+// session_start();
 
 // $_SESSION['start'] = time();
 // $_SESSION['expire'] = $_SESSION['start'] + (1 * 60) ;
@@ -11,16 +11,16 @@ session_start();
 
 
  ?>
-<?php  $actual_link = 'https://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF']; 
-if($actual_link == "https://svps17huda.com/index.php")
-{
-	//header("location:https://svps17huda.com/");
-}
+<?php  //$actual_link = 'https://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF']; 
+// if($actual_link == "https://svps17huda.com/index.php")
+// {
+// 	header("location:https://svps17huda.com/");
+// }
 
-else
-{
-	//header("location:https://svps17huda.com/");
-}
+// else
+// {
+// 	header("location:https://svps17huda.com/");
+// }
 ?>	
 
 <!-- HEADER
@@ -40,39 +40,39 @@ else
 <!-- POP UP FORM
 ================================================== -->
 <?php
-@$msg=base64_decode($_REQUEST['msg']);
-if($msg=='1')
-{
-	include "thankyou_popup.php";
-		$_SESSION['user_agent']=$user_agent;
-}
-elseif($msg=='2')
-{
-	$_SESSION['user_agent']=$user_agent;
-}
+// @$msg=base64_decode($_REQUEST['msg']);
+// if($msg=='1')
+// {
+// 	include "thankyou_popup.php";
+// 		$_SESSION['user_agent']=$user_agent;
+// }
+// elseif($msg=='2')
+// {
+// 	$_SESSION['user_agent']=$user_agent;
+// }
 
-else
-{
-	if(isset($_SESSION['user_agent']))
-	{
-	include "popup_form1.php";
-	}
-		else {
-			include "popup_form1.php"; //when need for pop-up for new admission uncomment this line
-			$_SESSION['user_agent']=$user_agent;
+// else
+// {
+// 	if(isset($_SESSION['user_agent']))
+// 	{
+// 	include "popup_form1.php";
+// 	}
+// 		else {
+// 			include "popup_form1.php"; //when need for pop-up for new admission uncomment this line
+// 			$_SESSION['user_agent']=$user_agent;
 
-		}
-}
-if(@$_REQUEST['source']==base64_encode(md5("babagooglebaba")))
-{
-  session_start();
-   $_SESSION['facebook']=$_REQUEST['source'];
+// 		}
+// }
+// if(@$_REQUEST['source']==base64_encode(md5("babagooglebaba")))
+// {
+//   session_start();
+//    $_SESSION['facebook']=$_REQUEST['source'];
   
-}
+// }
 
 ?>
 
-
+<p>Server Test</p>
 <!-- Navbar
 ================================================== -->
 <?php include "includes/navigation.php" ?>
@@ -80,7 +80,8 @@ if(@$_REQUEST['source']==base64_encode(md5("babagooglebaba")))
 <!-- SIGNIN MODAL
 ================================================== -->
 <?php include "includes/sign-in.php" ?>
-<!-- /////////////  pop up form -->
+
+<!-- pop up form -->
 
 <!-- SIGNUP MODAL
 ================================================== -->

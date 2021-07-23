@@ -71,8 +71,6 @@
 // }
 
 ?>
-
-<p>Server Test</p>
 <!-- Navbar
 ================================================== -->
 <?php include "includes/navigation.php" ?>

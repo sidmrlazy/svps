@@ -10,7 +10,7 @@
     	    		<div class="section__subtitle dark__subtitle">About <span>SVPS</span></div>
 
     	    		<h2 class="section__title dark__title"> <a style="text-decoration:none" href="https://svps17huda.com/about" target="_blank">About us</a> </h2>
-    	    		<p class="about__desc">Server-New Swami Vivekanand Public School was envisioned by our founder Late Ch. Dharam Singh Ji and subsequently the foundation stone of the school was laid on 12th January 1996. The school is inspired from the works of Swami Vivekananda (Karma Yogi); his thoughts and ideas.</p>
+    	    		<p class="about__desc">Swami Vivekanand Public School was envisioned by our founder Late Ch. Dharam Singh Ji and subsequently the foundation stone of the school was laid on 12th January 1996. The school is inspired from the works of Swami Vivekananda (Karma Yogi); his thoughts and ideas.</p>
 
     	    		<div class="about__quote">
     	    			<h2 class="about_quote__text">

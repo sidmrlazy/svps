@@ -14,7 +14,7 @@
 
     	    		<div class="about__quote">
     	    			<h2 class="about_quote__text">
-    	    				<i class="ion-quote"></i>All power is within you; you can do anything and everything. Believe in that, do not believe that you are weak. You can do any thing and everything. Stand up and express the divinity within you.”
+    	    				<i class="ion-quote"></i> All power is within you; you can do anything and everything. Believe in that, do not believe that you are weak. You can do any thing and everything. Stand up and express the divinity within you.”
     	    				<span class="quote_end"><i class="ion-quote"></i></span>
     	    			</h2>
 

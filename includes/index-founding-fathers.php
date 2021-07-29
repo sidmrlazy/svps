@@ -12,7 +12,7 @@
 
     	    <div class="col-md-5 col-lg-6">
     	    	<div class="coming-soon__img">
-    	    		<img src="assets/Directors/founder1.jpg" class="img-responsive" alt="...">
+    	    		<img src="assets/Directors/founder1.jpg" class="img-responsive" alt="founder and father of swami vivekananda school">
     	    	</div>
 
     	    	<!-- <div class="coming-soon__btn text-center">

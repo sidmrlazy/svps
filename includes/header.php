@@ -5,12 +5,13 @@
 <html lang="en">
 
 <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">          
-    <meta name="keywords" content="best school in haryana, cbse schools, cbse school, best cbse school, best cbse school in yamunanagar, cbse board school, top 10 cbse schools near me, best school in yamuna nagar, top 5 schools in yamuna nagar, top 10 schools in jagadhri, Top School In Yamunanagar, schools in yamuna nagar haryana, cbse board school near me, best cbse schools near me, top cbse schools near me, top cbse schools in haryana, Best School In Yamunanagar, cbse academy, cbse admission, top school in haryana, top schools in yamunanagar, top 5 best cbse school in yamuna nagar, best school in yamuna nagar jagadhri, top 10 schools in haryana, top 10 schools in jagadhri, svps huda, schools in yamuna nagar haryana, cbse school in yamuna nagar, top cbse schools, best sports school in haryana">
-    <meta name="description" content="Swami Vivekanand Public School is one of the Best Cbse school in Yamunanagar. It is best school in haryana offering world class campus and infrastructure. Our motto not only compliments but also sets the path for the vision of our school. Our vision is to make every child believe in themselves. To make them believe that they are second to none. To instil in them such confidence and strength so shat each one of them grows and becomes a world mover.">
-    <meta property="og:title" content="SVPS | Best Cbse School In Yamunanagar-Haryana">
+    <meta name="keywords" content="best school in yamunanagar,Top School In Yamunanagar,schools in yamunanagar haryana,top schools in yamunanagar,best school in yamunanagar jagadhri,top 10 schools in yamunanagar,best school in haryana,top cbse school in haryana,best sports school in haryana,cbse  school in haryana,top 10 cbse schools in haryana,best school in yamunanagar,best cbse school in yamunanagar,cbse school in yamunanagar">
+    <meta name="description" content="Swami Vivekanand Public School is one of the Best Cbse school in Yamunanagar. It is best school in haryana.">
+    <meta property="og:title" content="Best CBSE School In Yamunanagar-Haryana:- SVPS">
     <meta property="og:site_name" content="svps17huda.com">
     <meta property="og:url" content="https://svps17huda.com/index.php">
     <meta property="og:description" content="Swami Vivekanand Public School is one of the Best Cbse school in Yamunanagar. It is best school in haryana offering world class campus and infrastructure">
@@ -24,10 +25,13 @@
     <link rel="stylesheet" href="assets/plugins/owl-carousel/dist/assets/owl.theme.default.min.css">
     <link rel="shortcut icon" href="assets/svps-logo/logo.png">
 
+    
+
     <!--Custom CSS-->
-    <link rel="stylesheet" href="assets/css/style3.css">
+    <link rel="stylesheet" href="assets/css/style4.css">
     <link rel="stylesheet" href="extra/css/responsive.css">
 
+    <!-- font style -->
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -78,7 +82,7 @@
     }
     </script>
 
-    <title>SVPS | Best Cbse School In Yamunanagar-Haryana</title>
+    <title>Best CBSE School In Yamunanagar-Haryana:- SVPS </title>
 
 
 

@@ -3,7 +3,8 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="section__title text-center">
-							<h2 class="title__line">Welcome To Early Years</h2>
+							<h1 class="title__line new-title-ey">WELCOME TO EARLY YEARS</h1>
+							<h2 class="mb-3 bottom-caption-ey title__line">Best PreSchool in Yamunanagar</h2>
 							<p>We believe that Play-Way in Education should be fun and not forced! In order to make ‘Learning’ a Lifelong- Joyous experience and habit- one needs to<strong> START FROM THE START!</strong> </p>
 						</div>
 					</div>
@@ -12,9 +13,21 @@
 					<div class="col-md-12 col-lg-6 col-sm-12">
 						<div class="welcome__juniro__inner">
 							<!-- <h3>Welcome to Our School</h3> -->
-							<p><strong>Swami Vivekanand Public School</strong> has established an exclusive wing for the preschoolers under the name of<strong> ‘The Vivekian’s Early Years’</strong> with the motto to provide a dedicatedly strong and holistic growth foundation to the child from the very beginning. </p><br>
+							<!-- <p>
+								<strong>Swami Vivekanand Public School</strong> 
+								has established an exclusive wing for the preschoolers under the name of
+								<strong> ‘The Vivekian’s Early Years’</strong> 
+								with the motto to provide a dedicatedly strong and holistic growth foundation
+								 to the child from the very beginning. </p><br> -->
+								 <p>
+								 <strong>Swami Vivekanand Public School is the best preschool in Yamunanagar - Haryana</strong> and has established an exclusive wing for the preschoolers under the name of <strong>‘The Vivekian’s Early Years’</strong> with the motto to provide a dedicatedly strong and holistic growth foundation to a child as part of their Early Education.
+								 </p><br>
 
-							<p>We know the spirit of childhood is<strong> PLAY</strong> and thus our <strong>Play-Way</strong> approach to education insists on<strong> Child Centered Education.</strong>  It advocates educating little Vivekians through activities in which they can put their heart and soul and work in an atmosphere of freedom and spontaneity.</p>
+							<!-- <p>We know the spirit of childhood is<strong> PLAY</strong> and thus our <strong>Play-Way</strong> approach to education insists on<strong> Child Centered Education.</strong>  It advocates educating little Vivekians through activities in which they can put their heart and soul and work in an atmosphere of freedom and spontaneity.</p> -->
+							<p>
+							We know the spirit of childhood is <Strong>PLAY</Strong> and thus our<strong> Play-Way approach </strong>  to education insists on Child Centered Early Education. It advocates educating little Vivekians through activities in which they can put their heart and soul and work in an atmosphere of freedom and spontaneity.
+
+							</p>
 							<div class="wel__btn">
 								<a class="dcare__btn" href="about-us.php">Read More</a>
 							</div>

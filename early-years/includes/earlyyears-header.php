@@ -8,10 +8,11 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<title>Early Years|Best Play School In Yamunanagar-Haryana
 </title>
-<meta name="description" content="Get Admission in Best Play school in yamunanagar. Our Motto is Focused on Early Childhood Development. To Nurture Young Minds in a Culturally Appropriate Environment">
-	<meta name="keywords" content="playschool, preschool, play school in Yamunanagar, best play school in Yamunanagar, preschool in Yamunanagar, best preschool in Yamunanagar, nursery school in Yamunanagar, top play school in Yamunanagar, play school near me, playway, play group, nursery school">
+<!-- <meta name="description" content="Get Admission in Best Play school in yamunanagar. Our Motto is Focused on Early Childhood Development. To Nurture Young Minds in a Culturally Appropriate Environment"> -->
+<meta name="description" content="Swami Vivekanand Public School is the best preschool in yamunanagar. We have established a dedicated wing for the preschoolers under the name of ‘The Vivekian’s Early Years’ with the motto to provide a dedicated strong and holistic growth foundation to a child as part of their Early Education.We are among top schools in yamunanagar providing the best quality education to our childrens for their overall development.">
+<meta name="keywords" content="playschool, preschool, play school in Yamunanagar, best play school in Yamunanagar, preschool in Yamunanagar, best preschool in Yamunanagar, nursery school in Yamunanagar, top play school in Yamunanagar, play school near me, playway, play group, nursery school">
 	
-	<meta property="og:title" content="Early Years|Best Play School In Yamunanagar-Haryana">
+<meta property="og:title" content="Early Years|Best PreSchool in Yamunanagar">
 <meta property="og:site_name" content="svps17huda.com/early-years">
 <meta property="og:url" content="https://svps17huda.com/early-years/">
 <meta property="og:description" content="">

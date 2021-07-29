@@ -93,17 +93,26 @@
 ================================================== -->
 <?php include "includes/index-update.php" ?>
 
-<!--HOME PAGE ABOUT-->
-<!--==================================================-->
-<?php include "includes/index-about.php" ?>
-
-  <!-- HOME PAGE FOUNDING FATHER
+<!-- TEACHING METHODOLOGY
 ================================================== -->
-<?php include "includes/index-founding-fathers.php" ?>
+<?php include "includes/teaching-method.php" ?>
+
+<!-- HOME PAGE VISION-MOTO
+================================================== -->
+<?php include "includes/vision-moto.php" ?>
 
    <!-- HOME PAGE DIRECTORS
 ================================================== -->
 <?php include "includes/index-directors.php" ?>
+
+ <!-- HOME PAGE FOUNDING FATHER
+================================================== -->
+<?php include "includes/index-founding-fathers.php" ?>
+
+<!--HOME PAGE ABOUT-->
+<!--==================================================-->
+<?php include "includes/index-about.php" ?>
+
 
 <!-- HOME PAGE TURNOVERS
 ================================================== -->
@@ -113,13 +122,7 @@
 ================================================== -->
 <?php include "includes/index-early-years.php" ?>
 
-<!-- TEACHING METHODOLOGY
-================================================== -->
-<?php include "includes/teaching-method.php" ?>
 
-<!-- HOME PAGE VISION-MOTO
-================================================== -->
-<?php include "includes/vision-moto.php" ?>
 
 <!-- HOME PAGE INFO-CONTACT
 ================================================== -->

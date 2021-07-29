@@ -5,7 +5,7 @@
     	    <div class="col-sm-12">                
     	    	<div class="about__body">                    
     	    		<div class="about__icon">    	    			
-                       <a href="early-years/index.php" target="_blank"><img src="assets/svps-logo/early-years.png" class="ey-style" ></a>
+                       <a href="early-years/index.php" target="_blank"><img src="assets/svps-logo/early-years.png" class="ey-style" alt="Logo Of Swami vivekananda school"></a>
     	    		</div>                    
 
     	    		<div class="section__subtitle dark__subtitle">Swami Vivekanand <span>Public School</span></div>

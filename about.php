@@ -70,8 +70,11 @@
     	    	<div class="section_title__body" style="text-align: justify;">
     	    		<!-- <div class="section__subtitle dark__subtitle">Presentation of our <span>resource</span></div> -->
     	    		<h2 class="section__title dark__title">About us</h2>
-	    				<p class="about__title"> <a style="text-decoration: none; color:blue" target="_blank" href="https://svps17huda.com/special-awards">Swami Vivekanand Public School</a> was envisioned by our founder Late Ch. Dharam Singh Ji and subsequently the foundation stone of the school was laid on 12th January 1996. The school is inspired from the works of Swami Vivekananda (Karma Yogi); his thoughts and ideas.</p>
-	    				<p class="about__title">Swami Vivekananda was born on 12th January, 1863 and from that day onwards the world never remained the same. He changed the world for the good by his uniting and gigantic efforts. In similar vision the school was set forth on 12th January, 1996 and from that day onwards the school has brought about a paradigm shift in the field of education in the city of Yamunanagar as well as the entire nation.</p>
+              <p class="about__title">
+              Swami Vivekanand Public School is the best cbse board school in Yamunanagar Haryana and has the best educational infrastructure in Haryana. It was envisioned by our founder Late Ch. Dharam Singh Ji and subsequently the foundation stone of the school was laid on 12th January 1996. The school is inspired from the works of Swami Vivekananda (Karma Yogi); his thoughts and ideas.
+              </p>
+	    				<!-- <p class="about__title"> <a style="text-decoration: none; color:blue" target="_blank" href="https://svps17huda.com/special-awards">Swami Vivekanand Public School</a> was envisioned by our founder Late Ch. Dharam Singh Ji and subsequently the foundation stone of the school was laid on 12th January 1996. The school is inspired from the works of Swami Vivekananda (Karma Yogi); his thoughts and ideas.</p>
+	    				<p class="about__title">Swami Vivekananda was born on 12th January, 1863 and from that day onwards the world never remained the same. He changed the world for the good by his uniting and gigantic efforts. In similar vision the school was set forth on 12th January, 1996 and from that day onwards the school has brought about a paradigm shift in the field of education in the city of Yamunanagar as well as the entire nation.</p> -->
 	    			</div>
 	    		</div>
 	    	</div>

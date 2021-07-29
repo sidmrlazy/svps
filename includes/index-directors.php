@@ -15,7 +15,7 @@
                         <div class="teacher__name">Mr. Sanjay Kamboj</div>
                         <div class="teacher__prof">Director</div>
                     </div>
-                    <div class="teacher__img"><img src="assets/Directors/sanjay-kamboj.png" style="height:100%;width:100%;" class="img-responsive" alt="..."></div>
+                    <div class="teacher__img"><img src="assets/Directors/sanjay-kamboj.png" style="height:100%;width:100%;" class="img-responsive" alt="Director of swami vivekananda school"></div>
                     <div class="teacher_item__overlay">
                         <p class="overlay__desc">Our director Mr. Sanjay Kamboj is an advocate by the virtue of his educational degree but a pure educationist by heart and soul...</p>
                         <a href="Director-1.php" class="btn btn-accent">Read More</a>
@@ -49,7 +49,7 @@
     	  			</div> <!-- / .teacher__info -->
     	  			
     	  			<div class="teacher__img">
-    	  				<img src="assets/Directors/anita-kamboj.png" class="img-responsive" style="height:100%;width:100%;" alt="...">
+    	  				<img src="assets/Directors/anita-kamboj.png" class="img-responsive" style="height:100%;width:100%;" alt="Director of swami vivekananda school">
     	  			</div>
 
     	  			<div class="teacher_item__overlay">
@@ -76,7 +76,7 @@
     	  			</div> <!-- / .teacher__info -->
     	  			
     	  			<div class="teacher__img">
-    	  				<img src="assets/Directors/vipul-kamboj.png" class="img-responsive" style="height:100%;width:100%;" alt="...">
+    	  				<img src="assets/Directors/vipul-kamboj.png" class="img-responsive" style="height:100%;width:100%;" alt="Director of swami vivekananda school">
     	  			</div>
 
     	  			<div class="teacher_item__overlay">
@@ -100,7 +100,7 @@
     	  			</div>
 
     	  			<div class="teacher__img">
-    	  				<img src="assets/Directors/Taposh-Bhattacharya.png" class="img-responsive" style="height:100%;width:100%;" alt="...">
+    	  				<img src="assets/Directors/Taposh-Bhattacharya.png" class="img-responsive" style="height:100%;width:100%;" alt="Principal of Swami vivekananda school">
     	  			</div>
 
     	  			<div class="teacher_item__overlay">

@@ -51,7 +51,7 @@
     	    <div class="col-sm-12">
     	    	<div class="section_title__body" style="text-align: justify;">    	    		
     	    		<h2 class="section__title dark__title">Academic Infrastructure </h2>
-	    				<p class="about__title">At Swami Vivekanand Public School, we believe that a school’s infrastructure is a key base for learning for students. Because we understand the effect a good infrastructure has on being able to provide quality education – our <a style="text-decoration:none" color="blue" target="_blank" href="https://svps17huda.com/about#infra">school’s infrastructure </a> is equipped with Smart Interactive Digital Classrooms, laboratories for science practical, open fields for sports, games equipment, swimming pool, gardens to help kids become ‘Pro- Green’, sanitation facilities, multiple auditoriums, Libraries and others. </p>	    				
+	    				<p class="about__title">At Swami Vivekanand Public School, we believe that a school’s infrastructure is a key base for learning for students. That's why we have the <strong>best in class academic infrastructure in Haryana.</strong> Our school’s infrastructure is equipped with <strong>Smart Interactive Digital Classrooms, laboratories for science practicals, open fields for sports, games equipment, swimming pool, gardens to help kids become ‘Pro- Green’, sanitation facilities, multiple auditoriums, Libraries and others.</strong></p>	    				
 	    			</div>
 	    		</div>
 	    	</div>

@@ -96,7 +96,7 @@ $_SESSION['users_online'] = $count_users = mysqli_num_rows($users_online_query);
         <div class="collapse navbar-collapse" id="navbar__collapse" >
 
           <ul class="nav navbar-nav navbar-left" >
-            <li class="<?php echo $home; ?>" ><a href="index">Home <span class="sr-only">(current)</span></a></li>
+            <li class="<?php echo $home; ?>" ><a href="index">Homes <span class="sr-only">(current)</span></a></li>
 
             <li class="dropdown <?php echo $about_li; ?>">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >About <i class="ion-android-arrow-down"></i>
